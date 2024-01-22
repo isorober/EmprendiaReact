@@ -1,3 +1,10 @@
+body{
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(#773737 50%, #cc4d4d 95%);
+}
 .App {
   text-align: center;
 }

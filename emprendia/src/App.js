@@ -6,6 +6,7 @@ class App extends Component{
   render() {
     return (
       <div className="App">
+<<<<<<< HEAD
         <head>
 <title>Emprendia</title>
 </head>
@@ -25,6 +26,9 @@ class App extends Component{
 <button>Watch Video</button>
 </div>
 </body>
+=======
+        <h1 style = {{color : "white"}}>Emprende.IA</h1>
+>>>>>>> 1eca29709795c4c240167764c53c2125c4ed2122
       </div>
     );
   }
